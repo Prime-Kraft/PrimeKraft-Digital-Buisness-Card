@@ -130,8 +130,8 @@ body{
 }
 
 /*media query*/
-@media(min-width: 600px){
+@media(min-width: 550px){
     .profile-img-container{
-        max-width: 50vw;
+        max-width: 25vw;
     }
 }
