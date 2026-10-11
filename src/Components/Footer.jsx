@@ -1,6 +1,6 @@
 import twitterIcon from '../assets/Twitter Icon.png'
 
-import githubIcon from '../assets/Github Icon.png'
+import githubIcon from '../assets/Github-Icon.png'
 
 export default function Footer() {
   return (
