@@ -1,6 +1,6 @@
 import twitterIcon from '../assets/Twitter Icon.png'
 
-import githubIcon from '../assets/Github-Icon.png'
+import githubIcon from '../assets/GitHub-Icon.png'
 
 export default function Footer() {
   return (
@@ -8,7 +8,7 @@ export default function Footer() {
       <footer className='footer-panel'>
 
           <div className='icon-box'>
-            <a href='https://x.com/fusionCode91'><img src={twitterIcon} className='icon-footer' alt="image d of twitter icon"
+            <a href='https://x.com/fusionCode91'><img src={twitterIcon} className='icon-footer' alt="image  of twitter icon"
             /></a>
           </div>
           <div className='icon-box'>
